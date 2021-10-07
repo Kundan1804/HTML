@@ -4,7 +4,7 @@ Trying my hands on HTML
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NAmikaze Minato</title>
+    <title>Namikaze Minato</title>
  
     <style>
         * {
